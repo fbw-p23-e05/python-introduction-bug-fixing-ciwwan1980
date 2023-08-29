@@ -15,4 +15,3 @@ else:
 
 print("Calculated sum is", result)
 
-
