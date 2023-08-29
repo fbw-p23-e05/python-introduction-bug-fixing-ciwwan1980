@@ -30,6 +30,7 @@ For all integers between 1 and 99 (include both):
 
 Program with exactly **7** bugs:  
 ```python
+
 three_mul = 'fizz
 five_mul = 'buzz'
 num1 = 3
